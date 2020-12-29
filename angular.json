@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "app-heroku"
+  "defaultProject": "app-heroku",
+  "cli": {
+    "analytics": "3780f958-5c62-4b8d-bb94-af22f7312622"
+  }
 }
